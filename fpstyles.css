@@ -40,7 +40,7 @@ h2 {
   justify-content: center;
 }
 .home-image {
-  margin-right: 10px
+  margin-right: 20px
 }
 .site-menu {
   list-style: none;
@@ -69,5 +69,5 @@ width: 20%;
 width: 60%;
 }
 .interior-image {
-  float: right
+  float: right;
 }
