@@ -37,8 +37,7 @@ h2 {
 }
 .book-series {
   display: flex;
-  justify-content: flex-start;
-  padding-left: 0px;
+  justify-content: center;
 }
 .home-image {
   margin-right: 10px;
