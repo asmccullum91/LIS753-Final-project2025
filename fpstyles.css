@@ -41,7 +41,7 @@ h2 {
 }
 .home-image {
   margin-right: 20px;
-  margin-left: 10px;
+  margin-left: 20px;
 }
 .site-menu {
   list-style: none;
@@ -51,6 +51,7 @@ h2 {
 .center-list {
   text-align: center;
   list-style-type: none;
+  font-size: 20px;
 }
 .middle-logo {
 max-width: 960px;
