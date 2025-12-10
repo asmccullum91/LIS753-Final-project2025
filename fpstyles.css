@@ -38,6 +38,10 @@ h2 {
 .book-series {
   display: flex;
 }
+.home-image {
+  margin-left: 10px;
+  margin-right: 10px;
+}
 .site-menu {
   list-style: none;
   padding: 0;
