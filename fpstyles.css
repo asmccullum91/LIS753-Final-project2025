@@ -38,9 +38,8 @@ h2 {
 .book-series {
   display: flex;
   justify-content: space-around;
-  list-style: none;
   padding-left: 5px;
-  font-size: 20px;
+  padding-right: 10px;
 }
 .site-menu {
   list-style: none;
