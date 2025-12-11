@@ -5,7 +5,7 @@
   padding: 5px;
 }
 #skip-nav:hover {
-  text-decoration: underline
+  text-decoration: underline;
 }
 .site-nav {
   display: flex;
@@ -25,11 +25,11 @@ h1 {
   font-size: 50px; 
   text-align: center; 
   text-transform: uppercase;
-  font-family: lucida handwriting  
+  font-family: lucida handwriting;  
 }
 h2 {
   font-size: 30px;
-  font-family: courier new 
+  font-family: courier new; 
 }
 p {
   font-family: Trebuchet MS;
