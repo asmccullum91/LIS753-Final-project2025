@@ -28,8 +28,11 @@ h1 {
   font-family: lucida handwriting;  
 }
 h2 {
-  font-size: 30px;
-  font-family: courier new; 
+  font-size: 35px;
+  font-family: Trebuchet Ms; 
+}
+h3 {
+  font-size: 25px
 }
 p {
   font-family: Trebuchet MS;
