@@ -13,11 +13,14 @@ body {
   text-decoration: underline;
 }
 .site-nav {
-  display: flex;
-  justify-content: space-around;
   list-style: none;
   padding-left: 5px;
   font-size: 20px;
+}
+@media all and (min-width: 391px) {
+.site-nav {
+  display: flex;
+  justify-content: space-around;}
 }
 .nav-item a {
   font-weight: bold;
